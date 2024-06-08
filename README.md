@@ -1,5 +1,5 @@
 # Stock Dashboard App
-This project is a stock dashboard app that uses the [Finnhub API](https://finnhub.io/)
+This project is a stock dashboard app that uses the [Finnhub API](https://finnhub.io/) also used [React}(https://react.dev/)
 
 - 🔍 Search for a stock of your choice
 
